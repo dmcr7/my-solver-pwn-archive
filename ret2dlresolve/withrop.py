@@ -1,3 +1,4 @@
+//credit to circleous
 from pwn import *
 r = remote("jh2i.com", 50032)
 elf = ELF("./bacon", 0)
